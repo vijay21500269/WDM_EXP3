@@ -102,7 +102,7 @@ else:
  print("No frequent sequential patterns found in Party Wear.")
 ```
 ### Output:
-![output1]()
+![output1](https://github.com/vijay21500269/WDM_EXP3/blob/main/img1.png)
 ### Visualization:
 ```python
 import matplotlib.pyplot as plt
@@ -131,8 +131,8 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
 
-![output2]()
-![output3]()
+![output2](https://github.com/vijay21500269/WDM_EXP3/blob/main/img2.png)
+![output3](https://github.com/vijay21500269/WDM_EXP3/blob/main/img3.png)
 
 
 ### Result:
